@@ -1,0 +1,18 @@
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project\Data_mining project\bin\Debug\Data_mining project.exe.config
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project\Data_mining project\bin\Debug\Data_mining project.exe
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project\Data_mining project\bin\Debug\Data_mining project.pdb
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project\Data_mining project\obj\Debug\Data_mining project.csprojResolveAssemblyReference.cache
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project\Data_mining project\obj\Debug\Data_mining_project.Form1.resources
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project\Data_mining project\obj\Debug\Data_mining_project.Properties.Resources.resources
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project\Data_mining project\obj\Debug\Data_mining project.csproj.GenerateResource.Cache
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project\Data_mining project\obj\Debug\Data_mining project.exe
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project\Data_mining project\obj\Debug\Data_mining project.pdb
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project - one cliassifier\Data_mining project\bin\Debug\Data_mining project.exe.config
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project - one cliassifier\Data_mining project\obj\Debug\Data_mining project.exe
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project - one cliassifier\Data_mining project\obj\Debug\Data_mining project.pdb
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project - one cliassifier\Data_mining project\bin\Debug\Data_mining project.exe
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project - one cliassifier\Data_mining project\bin\Debug\Data_mining project.pdb
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project - one cliassifier\Data_mining project\obj\Debug\Data_mining project.csprojResolveAssemblyReference.cache
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project - one cliassifier\Data_mining project\obj\Debug\Data_mining_project.Form1.resources
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project - one cliassifier\Data_mining project\obj\Debug\Data_mining_project.Properties.Resources.resources
+C:\Users\VIP104\Documents\Visual Studio 2012\Projects\Data_mining project - one cliassifier\Data_mining project\obj\Debug\Data_mining project.csproj.GenerateResource.Cache
